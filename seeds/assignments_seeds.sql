@@ -1,3 +1,9 @@
+--id: A unique identifier
+-- name: The name of the assignment
+-- content: The written content body of the assignment
+-- day: The day that the assignment appears on
+-- chapter: The order that the assignment will appear in the day.
+-- duration: The average time it takes a student to finish
 INSERT INTO assignments (id, name, content, duration, day, chapter) VALUES (1, 'Delectus nam repellendus', 'Excepturi aliquam expedita voluptatem et aspernatur quidem sunt et. Iste quaerat velit quam consequatur dolor ut quia omnis. Ipsa repudiandae odio totam ab quia omnis. Excepturi sed porro amet atque velit aspernatur. Molestiae neque eum itaque incidunt omnis ut esse eum accusantium. Neque sed ea explicabo.', 30, 1, 1);
 INSERT INTO assignments (id, name, content, duration, day, chapter) VALUES (2, 'Tempora atque nihil', 'Veniam voluptatem ipsam incidunt doloribus facilis aut rem. Quasi excepturi error hic magni officiis. Maiores sit et repellendus odit. Earum incidunt dolorem dolorem nemo voluptatum. Dicta voluptas itaque autem totam hic. Sunt id quia deserunt sequi qui est.', 60, 1, 2);
 INSERT INTO assignments (id, name, content, duration, day, chapter) VALUES (3, 'Assumenda magnam tempore', 'Reiciendis officia facilis quidem. Minima voluptas laudantium reiciendis omnis praesentium ad molestiae eum. Esse soluta mollitia. Voluptatem debitis maiores quaerat.', 60, 1, 3);
